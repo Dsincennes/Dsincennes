@@ -41,21 +41,32 @@
 <br/>
 <br/>
 
-## Use To Code
+## Skills & Tools
 
-![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
-![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![React Query](https://img.shields.io/badge/-React_Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
-![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+[![C#](https://img.shields.io/badge/-C%23-blue)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![React](https://img.shields.io/badge/-React-blue)](https://reactjs.org/)
+[![Ruby](https://img.shields.io/badge/-Ruby-red)](https://www.ruby-lang.org/)
+[![Angular](https://img.shields.io/badge/-Angular-red)](https://angular.io/)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-green)](https://www.mongodb.com/)
+[![Azure](https://img.shields.io/badge/-Azure-blue)](https://azure.microsoft.com/)
+[![Groovy](https://img.shields.io/badge/-Groovy-purple)](https://groovy-lang.org/)
+[![Java](https://img.shields.io/badge/-Java-orange)](https://www.java.com/)
+[![Jenkins](https://img.shields.io/badge/-Jenkins-yellow)](https://www.jenkins.io/)
+[![Git](https://img.shields.io/badge/-Git-black)](https://git-scm.com/)
+[![SQL](https://img.shields.io/badge/-SQL-lightgrey)](https://www.w3schools.com/sql/)
+[![C](https://img.shields.io/badge/-C-blue)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![Linux](https://img.shields.io/badge/-Linux-blue)](https://www.linux.org/)
+[![Python](https://img.shields.io/badge/-Python-blue)](https://www.python.org/)
+[![Docker](https://img.shields.io/badge/-Docker-blue)](https://www.docker.com/)
+[![Kubernetes](https://img.shields.io/badge/-Kubernetes-blue)](https://kubernetes.io/)
+[![HTML](https://img.shields.io/badge/-HTML-orange)](https://www.w3schools.com/html/)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![CSS](https://img.shields.io/badge/-CSS-blue)](https://www.w3schools.com/css/)
+[![Postman](https://img.shields.io/badge/-Postman-orange)](https://www.postman.com/)
+[![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-blue)](https://visualstudio.microsoft.com/)
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-blue)](https://getbootstrap.com/)
+
+
 
 <br/>
 
