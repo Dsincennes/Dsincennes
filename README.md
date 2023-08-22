@@ -71,8 +71,8 @@
 <br/>
 
 ## Personal Projects -
-[![DiscordBot](https://github-readme-stats.vercel.app/api/pin/?username=dsincennes&repo=DiscBot&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Dsincennes/DiscBot)
 [![WebApp](https://github-readme-stats.vercel.app/api/pin/?username=dsincennes&repo=hideaway-leaderboard&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Dsincennes/hideaway-leaderboard)
+[![DiscordBot](https://github-readme-stats.vercel.app/api/pin/?username=dsincennes&repo=DiscBot&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Dsincennes/DiscBot)
 [![Python Script](https://github-readme-stats.vercel.app/api/pin/?username=dsincennes&repo=ChronoGolfBot&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Dsincennes/ChronoGolfBot)
 
 <p align="left">
